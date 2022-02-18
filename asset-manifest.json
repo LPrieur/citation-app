@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/citation-app/static/css/main.c8bda5de.css",
+    "main.js": "/citation-app/static/js/main.a2ae4880.js",
+    "static/media/Shadok-5.png": "/citation-app/static/media/Shadok-5.6a4942a63cbdce64bff1.png",
+    "static/media/Shadok-9.png": "/citation-app/static/media/Shadok-9.8970855cc15494b28b85.png",
+    "static/media/Shadok-8.png": "/citation-app/static/media/Shadok-8.57490d3a84b5b4e078c9.png",
+    "static/media/Shadok-12.png": "/citation-app/static/media/Shadok-12.a10ccd45bde1f2bf110c.png",
+    "static/media/Shadok-13.png": "/citation-app/static/media/Shadok-13.45c115aeaa474beffe19.png",
+    "static/media/Shadok-2.png": "/citation-app/static/media/Shadok-2.e5206c66779ebea76ee6.png",
+    "static/media/Shadok-1.png": "/citation-app/static/media/Shadok-1.d7b665cb328044f7f6be.png",
+    "static/media/Shadok-10.png": "/citation-app/static/media/Shadok-10.1985b4011bd68dd8c015.png",
+    "static/media/Shadok-3.png": "/citation-app/static/media/Shadok-3.77e2f2a1775d5cf26200.png",
+    "static/media/Shadok-7.png": "/citation-app/static/media/Shadok-7.f6cf84f1ac190f7d5581.png",
+    "static/media/Shadok-4.png": "/citation-app/static/media/Shadok-4.f43cf43a644640dbbd67.png",
+    "static/media/Shadok-11.png": "/citation-app/static/media/Shadok-11.e70e0579e4e91acede32.png",
+    "static/media/Shadok-6.png": "/citation-app/static/media/Shadok-6.08494ffbf9789d3a5de8.png",
+    "static/media/les-devises.png": "/citation-app/static/media/les-devises.6de8c3a863df6c779d74.png",
+    "index.html": "/citation-app/index.html",
+    "main.c8bda5de.css.map": "/citation-app/static/css/main.c8bda5de.css.map",
+    "main.a2ae4880.js.map": "/citation-app/static/js/main.a2ae4880.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8bda5de.css",
+    "static/js/main.a2ae4880.js"
+  ]
+}
