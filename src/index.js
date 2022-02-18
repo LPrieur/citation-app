@@ -1,17 +1,24 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import Dico from "./pages/Dico.js"
+import Apropos from './pages/Apropos.js'
+import Generateur from './pages/Generateur.js'
+import Navbar from './composants/Navbar.js'
+import { BrowserRouter, Routes, Route } from "react-router-dom"
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <BrowserRouter>
+      <Navbar/>
+      <Routes>
+
+        <Route path="/" element={<Generateur />}/>
+        <Route path="/dico" element={<Dico />}/>
+        <Route path="/apropos" element={<Apropos />}/>        
+
+      </Routes>
+    </BrowserRouter>
   </React.StrictMode>,
   document.getElementById('root')
 );
-
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
